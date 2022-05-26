@@ -1,0 +1,154 @@
+body{
+    font-family: Verdana;
+    color: black;
+    background-color: rgb(196, 214, 248);
+}
+#principal section{
+    width: 70%;
+}
+#principal aside{
+ width: 30%;
+}
+#principal{
+    width: 90%;
+    margin: 0 auto;
+    display: flex;
+}   
+#principal aside img{
+    width: 70%;
+}
+
+#wrapper{
+    width: 80%;
+    margin: 0 auto;
+}
+header{
+    width: 100%;
+}
+#cabeza, #banner{
+width: 100%;
+}
+#redes, #telefono{
+    text-align: left;
+    float: left;
+    width: 20%;
+}
+#telefono{
+    text-align: right;
+}
+#logo{
+    text-align: center;
+    width: 60%;
+    float: left;
+}
+#banner img{
+    width: 100%;
+}
+#navPr {
+    background-color: seashell;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 1.3em;
+    
+}
+nav a:hover{
+    
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 1.5em;
+}
+nav ul{
+    list-style-type: none;
+    margin: 40;
+    padding: 0;
+    
+}
+
+nav ul li {
+    float: left;
+    display: inline;
+    
+  }
+  
+nav ul li a {
+    display: block;
+    padding: 40px;
+    background-color: lightblue;
+    border-right: 1px solid #bbb;
+    
+  }
+ 
+hgroup{
+    font-family: Georgia;
+}
+h1{
+    font-size: 4em;
+    font-family: fantasy;
+    font-style: inherit;
+    align-content: center;
+}
+h2{
+    font-size: 3em;
+    font-family:fantasy;
+    font-style: oblique;
+    
+    
+}
+h3{
+    font-size: 2em;
+    font-family:fantasy;
+    font-style: oblique;   
+}
+h4{
+    font-size: 1em;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: oblique;
+}
+
+.hipervinculo{
+    text-transform: uppercase;
+    color: blueviolet;
+    text-decoration-style: double;
+}
+.hipervinculo2{
+    font-style: italic;
+}
+#hipervinculo3{
+    color: red;
+}
+#mision{ 
+    text-decoration:underline;
+    font-style: italic;
+}
+#wrapper footer{
+   
+    background-color: #5b5f66;
+    display: flex;
+}
+#footer{
+    background-color: #b7bfce;
+    display: flex; 
+}
+#footer1{
+    width: 70%;
+
+}
+#footer2{
+    width: 30%;
+}
+#footer1R1{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+#footer1R2{
+    width: 100%;
+}
+
+#footer1R1C1{
+width: 50%;
+}
+#footer1R1C2{
+    width: 50%;
+}
+.twitter-tweet{
+    margin-left: 1em;
+}
