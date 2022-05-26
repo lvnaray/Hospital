@@ -1,0 +1,23 @@
+{
+    "correo":"destynoldl1@gmail.com",
+    "contrasena":"abc",
+    "nombre": "Paula",
+    "apaterno":"Luna",
+    "amaterno":"Camacho",
+    "nacimiento":"1980-02-05",
+    "domicilio":"cansas",
+    "id_doctor":1,
+    "consultas":[
+      {
+        "id_doctor":1,
+        "padecimiento":"Dolor de rodilla",
+        "tratamiento":"Pomada con naproxeno",
+        "fecha":"2021-06-15"
+      },{
+        "id_doctor":1,
+        "padecimiento":"Dolor de cabeza",
+        "tratamiento":"Té de romero",
+        "fecha":"2021-06-15"
+      } 
+    ]
+  }
